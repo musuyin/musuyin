@@ -1,23 +1,16 @@
 ### <div align="center">There's Musuyin ですわ!</div>  
   
-
-- 💻 Backend developer passionate about building reliable and clean systems.  
+- Backend.
+- Computer Science at East China Normal University).  
+- Go, cloud infrastructure.  
+- BanGDream
   
-
-- 📚 Currently studying Computer Science at East China Normal University (ECNU).  
-  
-
-- 🛠️ Learning distributed systems, Go, cloud infrastructure.  
-  
-
-- 🎸 Fan of *BanG Dream!* — learning bass to play like my favorite band!  
-  
-📫 Reach out via musuyin@qq.com — open to tech chats, collabs, or anime talk!
-
 ## My Skill Set  
+
 <table><tr><td valign="top" width="50%">
 
 ### Frontend  
+
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -28,6 +21,7 @@
 </td><td valign="top" width="50%">
 
 ### Backend  
+
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
