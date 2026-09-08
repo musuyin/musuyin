@@ -1,9 +1,9 @@
-### <div align="center">There's Musuyin ですわ!</div>  
+### <div align="center">There's Musuyin</div>  
   
 - Backend.
-- Computer Science at East China Normal University).  
+- Computer Science at East China Normal University.  
 - Go, cloud infrastructure.  
-- BanGDream
+- BanGDream :)  
   
 ## My Skill Set  
 
