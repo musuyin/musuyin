@@ -1,8 +1,7 @@
 ### <div align="center">There's Musuyin</div>  
   
-- Backend.
 - Computer Science at East China Normal University.  
-- Go, cloud infrastructure.  
+- Golang Backend Developer.
 - BanGDream :)  
   
 ## My Skill Set  
