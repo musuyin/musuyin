@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="248" viewBox="0 0 960 248" role="img" aria-labelledby="title desc">
+  <title id="title">Musuyin · DevOps Engineer · Cloud Infrastructure</title>
+  <desc id="desc">A guitar cable loops into the letter M beside Musuyin’s name.</desc>
+  <defs>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="6" cy="6" r="1" fill="#415064"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="248" rx="18" fill="#142335"/>
+  <rect x="617" y="24" width="319" height="200" rx="6" fill="url(#dots)"/>
+  <path d="M40 35h30" stroke="#fb809a" stroke-width="5"/>
+  <text x="38" y="145" fill="#f3ecdf" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="99" letter-spacing="-5">Musuyin</text>
+  <text x="44" y="195" fill="#f3ecdf" font-family="'Courier New', monospace" font-size="22">DevOps Engineer · Cloud Infrastructure</text>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M609 179c40 13 57 2 71-39l25-74q5-14 12 0l31 74q3 8 8 0l44-79q8-14 10 1l10 87c4 36 27 43 48 22 15-15 16-35 4-39-15-6-26 14-13 25l21 15" stroke="#f3ecdf" stroke-width="8"/>
+    <path d="m866 162 14 10" stroke="#fb809a" stroke-width="8"/>
+  </g>
+  <g transform="translate(880 172) rotate(36)">
+    <rect x="-1" y="-7" width="23" height="14" rx="3" fill="#fb809a"/>
+    <path d="M22 0h20l4-2 4 2-4 2" fill="none" stroke="#f3ecdf" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M34-2v4" stroke="#142335" stroke-width="2"/>
+  </g>
+</svg>
